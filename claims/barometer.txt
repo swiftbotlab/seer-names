@@ -1,0 +1,1 @@
+X: @swiftbotlab — A barometer reads the air pressure and tells you a storm is coming before it arrives. Risk Pricing reads the pressure markets put on each DeFi asset, side by side. One word everyone knows: a forecasting instrument for a forecasting company.
